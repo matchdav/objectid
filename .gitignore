@@ -1,3 +1,4 @@
-*.swp
-*~
-target/
+components
+build
+node_modules
+Makefile
