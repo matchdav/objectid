@@ -1,3 +1,7 @@
+Packaged as a component - http://component.io
+
+-----------------------------------------------------------
+
 This is an implementation of ObjectId in pure javascript. 
 MachineId is persistant across a single domain via html5
 LocalStorage with a fallback to cookies. Something like 
